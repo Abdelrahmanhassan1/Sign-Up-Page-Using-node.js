@@ -67,6 +67,4 @@ app.listen(process.env.PORT || port, function () {
 
 // my API Key
 // eee886a1a4498a4f604208fc35a762d2-us14
-
-// our Unique ID
-// b170ddf41b
+// Note:: this key is no longer working
