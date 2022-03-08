@@ -10,4 +10,4 @@
 
 <h3>Try the app from here:</h3>
 
-<a href="https://boiling-earth-17672.herokuapp.com/">NewLetter SignUp</a>
+<a href="https://boiling-earth-17672.herokuapp.com/" target="_blank">NewLetter SignUp</a>
